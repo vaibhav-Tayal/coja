@@ -6,7 +6,7 @@
         <div class="row align-items-center">
           <div class="col-lg-9">
             <div class="inner-banner-title">
-              <h1>About Ussss</h1>
+              <h1>About Usssssssssssss</h1>
             </div>
           </div>
           <div class="col-lg-3">
