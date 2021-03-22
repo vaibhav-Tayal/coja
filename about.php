@@ -34,7 +34,7 @@
           <img src="images/about-image.png">
         </div>
         <div class="about-description">
-          <div class="compan-year">SINCE 1993</div>
+          <div class="compan-year">SINCE 19955</div>
           <div class="title-left">
             <h2>About <span>Us</span></h2>
           </div>
